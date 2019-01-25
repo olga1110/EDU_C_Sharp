@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\bin\Debug\SET-анализ.exe
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\bin\Debug\SET-анализ.pdb
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\сценарные_расчеты.Form1.resources
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\сценарные_расчеты.Form2.resources
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\сценарные_расчеты.Form3.resources
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\сценарные_расчеты.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\SET-анализ.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\SET-анализ.exe
+C:\Users\Пользователь\Desktop\новое_по диплому\расчеты\SET-анализ\SET-анализ\obj\Debug\SET-анализ.pdb

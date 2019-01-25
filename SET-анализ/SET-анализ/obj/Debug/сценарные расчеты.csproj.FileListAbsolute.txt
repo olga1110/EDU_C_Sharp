@@ -1,0 +1,10 @@
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\bin\Debug\сценарные расчеты.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\bin\Debug\сценарные расчеты.pdb
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные_расчеты.Form1.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные_расчеты.Properties.Resources.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные расчеты.csproj.GenerateResource.Cache
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные расчеты.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные расчеты.pdb
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные_расчеты.Form3.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\сценарные расчеты\obj\Debug\сценарные_расчеты.Form2.resources
