@@ -1,0 +1,10 @@
+Ivanov
+75
+Starkov
+65
+Svetilnikov
+89
+Bredov
+100
+Kozlov
+56

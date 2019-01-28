@@ -1,0 +1,5 @@
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\klient banka\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\klient banka\bin\Release\klient banka.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\klient banka\bin\Release\klient banka.pdb
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\klient banka\obj\Release\klient banka.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\klient banka\obj\Release\klient banka.pdb

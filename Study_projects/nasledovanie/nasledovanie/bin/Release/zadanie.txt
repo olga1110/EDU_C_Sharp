@@ -1,0 +1,4 @@
+itak
+ ball  75Student  Ivanov 
+ ball  65Student  Starkov
+ ball  99Student  Kozlov

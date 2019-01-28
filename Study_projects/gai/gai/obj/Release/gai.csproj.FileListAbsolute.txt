@@ -1,0 +1,5 @@
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\gai\bin\Release\gai.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\gai\bin\Release\gai.pdb
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\gai\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\gai\obj\Release\gai.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\gai\obj\Release\gai.pdb

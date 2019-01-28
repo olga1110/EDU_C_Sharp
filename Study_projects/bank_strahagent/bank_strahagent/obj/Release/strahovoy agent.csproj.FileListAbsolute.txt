@@ -1,0 +1,5 @@
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\strahovoy agent\bin\Release\strahovoy agent.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\strahovoy agent\bin\Release\strahovoy agent.pdb
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\strahovoy agent\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\strahovoy agent\obj\Release\strahovoy agent.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\strahovoy agent\obj\Release\strahovoy agent.pdb

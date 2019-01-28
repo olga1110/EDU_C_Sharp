@@ -1,0 +1,5 @@
+E:\ММЭ-1\ММЭ-1\Попова\c#\virtual\virtual\obj\Release\ResolveAssemblyReference.cache
+E:\ММЭ-1\ММЭ-1\Попова\c#\virtual\virtual\bin\Release\virtual.exe
+E:\ММЭ-1\ММЭ-1\Попова\c#\virtual\virtual\bin\Release\virtual.pdb
+E:\ММЭ-1\ММЭ-1\Попова\c#\virtual\virtual\obj\Release\virtual.exe
+E:\ММЭ-1\ММЭ-1\Попова\c#\virtual\virtual\obj\Release\virtual.pdb

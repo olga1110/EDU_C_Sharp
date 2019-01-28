@@ -1,0 +1,10 @@
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\nasledovanie\bin\Release\nasledovanie.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\nasledovanie\bin\Release\nasledovanie.pdb
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\nasledovanie\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\nasledovanie\obj\Release\nasledovanie.exe
+C:\Documents and Settings\s101ws09\Local Settings\Application Data\Temporary Projects\nasledovanie\obj\Release\nasledovanie.pdb
+E:\ММЭ-1\ММЭ-1\Попова\c#\nasledovanie\nasledovanie\obj\Release\nasledovanie.exe
+E:\ММЭ-1\ММЭ-1\Попова\c#\nasledovanie\nasledovanie\obj\Release\nasledovanie.pdb
+E:\ММЭ-1\ММЭ-1\Попова\c#\nasledovanie\nasledovanie\obj\Release\ResolveAssemblyReference.cache
+E:\ММЭ-1\ММЭ-1\Попова\c#\nasledovanie\nasledovanie\bin\Release\nasledovanie.exe
+E:\ММЭ-1\ММЭ-1\Попова\c#\nasledovanie\nasledovanie\bin\Release\nasledovanie.pdb
