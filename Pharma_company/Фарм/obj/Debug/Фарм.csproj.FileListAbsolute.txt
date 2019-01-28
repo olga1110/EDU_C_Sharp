@@ -1,0 +1,23 @@
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\bin\Debug\Фарм.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\bin\Debug\Фарм.pdb
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.Form1.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.Properties.Resources.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.аптеки.resources
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.csproj.GenerateResource.Cache
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.exe
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.pdb
+C:\Users\Пользователь\AppData\Local\Temporary Projects\Фарм\obj\Debug\Фарм.заводы.resources
+D:\Фарм\Фарм\bin\Debug\Фарм.exe
+D:\Фарм\Фарм\bin\Debug\Фарм.pdb
+D:\Фарм\Фарм\obj\Debug\ResolveAssemblyReference.cache
+D:\Фарм\Фарм\obj\Debug\Фарм.Form1.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.Properties.Resources.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.аптеки.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.заводы.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.csproj.GenerateResource.Cache
+D:\Фарм\Фарм\obj\Debug\Фарм.exe
+D:\Фарм\Фарм\obj\Debug\Фарм.pdb
+D:\Фарм\Фарм\obj\Debug\Фарм.заводы1.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.Form4.resources
+D:\Фарм\Фарм\obj\Debug\Фарм.Удаление.resources
